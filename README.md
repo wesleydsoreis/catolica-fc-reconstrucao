@@ -27,5 +27,4 @@ Durante a partida, no teclado:
 - Trocar jogador: **L** ou **U**
 - Pausar: **P** ou **Esc**
 - Ajuda: **H** ou **F1**
-Em pênaltis, faltas e escanteios, use as setas para mirar; segure o botão de chute para carregar a força e solte para bater. O jogo também aceita controle e oferece controles na tela em dispositivos móveis.
-## GDD
+Em pênaltis, faltas e escanteios, use as setas para mirar; segure o botão de chute para carregar a força e solte para bater. O jogo também aceita controle e oferece controles na tela em dispositivos móveis
