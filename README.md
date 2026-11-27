@@ -3,8 +3,12 @@ Jogo de futebol universitário feito em Godot. Este repositório é público.
 ## Jogar no Windows
 1. Abra a página de [lançamentos](https://github.com/wesleydsoreis/catolica-fc-reconstrucao/releases/tag/v1.0.0).
 2. Baixe `CatolicaFC.exe` e abra o arquivo no Windows.
+O GitHub também oferece downloads automáticos do código-fonte. No Windows, baixe **Source code (zip)**. No Linux ou macOS, baixe **Source code (tar.gz)**. Ambos contêm os arquivos do repositório.
+
 ## Abrir o projeto no Godot
-Os arquivos-fonte estão divididos em **14 arquivos ZIP** no repositório. Não há arquivo RAR. Para montar o projeto:
+Os arquivos-fonte estão divididos em **14 arquivos ZIP** no repositório. 
+
+Para montar o projeto:
 1. Baixe todos os arquivos `.zip` que aparecem na página principal do repositório.
 2. Crie uma pasta vazia no computador.
 3. Extraia `projeto-raiz.zip` nessa pasta.
