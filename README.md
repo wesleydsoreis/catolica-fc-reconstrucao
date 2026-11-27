@@ -1,13 +1,41 @@
-# Católica FC
+# Católica FC — A Reconstrução
 
-Projeto de jogo feito em Godot. Este repositório está privado.
+Jogo de futebol universitário feito em Godot. Este repositório é privado.
 
-## Baixar e jogar
+## Jogar no Windows
 
-Baixe o executável para Windows na [versão 1.0.0](https://github.com/wesleydsoreis/catolica-fc-reconstrucao/releases/tag/v1.0.0).
+1. Abra a página de [lançamentos](https://github.com/wesleydsoreis/catolica-fc-reconstrucao/releases/tag/v1.0.0).
+2. Baixe `CatolicaFC.exe` e abra o arquivo no Windows.
 
-## Código-fonte
+## Abrir o projeto no Godot
 
-Os arquivos do projeto foram divididos em pacotes ZIP para caber nos limites de envio do GitHub. Baixe todos os arquivos `.zip` da página principal e extraia cada um na mesma pasta, começando por `projeto-raiz.zip`. Alguns pacotes contêm partes complementares de `assets`, `scenes`, `scripts`, `tests` e `ui`.
+Os arquivos-fonte estão divididos em **14 arquivos ZIP** no repositório. Não há arquivo RAR. Para montar o projeto:
 
-Abra o arquivo do projeto Godot incluído no pacote principal pelo Godot.
+1. Baixe todos os arquivos `.zip` que aparecem na página principal do repositório.
+2. Crie uma pasta vazia no computador.
+3. Extraia `projeto-raiz.zip` nessa pasta.
+4. Extraia os outros ZIPs na mesma pasta, mesclando as pastas quando o Windows perguntar. Não deixe cada pacote em uma subpasta separada.
+5. Instale e abra o Godot Engine 4.4 ou mais recente, edição padrão (não precisa da edição .NET).
+6. Na tela de projetos do Godot, escolha **Importar**, selecione `project.godot` na pasta montada e clique em **Importar e Editar**.
+7. Aguarde a importação dos recursos e pressione **F5** para iniciar o jogo.
+
+## Como jogar
+
+No menu, escolha **Jogar partida** para iniciar a carreira 11x11 ou um amistoso FUT7. Na carreira, avance pelo mapa, gerencie o clube e, antes das partidas, ajuste a escalação e as táticas. O desafio do diretor antes das partidas é opcional. A opção **Professor** abre o modo de sala de aula.
+
+Durante a partida, no teclado:
+
+- Mover: **WASD** ou **setas**
+- Passe: **J** ou **Z**
+- Chute: **K** ou **X**; segure para carregar força
+- Passe alto: **I** ou **C**
+- Correr: **Shift** ou **Espaço**
+- Trocar jogador: **L** ou **U**
+- Pausar: **P** ou **Esc**
+- Ajuda: **H** ou **F1**
+
+Em pênaltis, faltas e escanteios, use as setas para mirar; segure o botão de chute para carregar a força e solte para bater. O jogo também aceita controle e oferece controles na tela em dispositivos móveis.
+
+## GDD
+
+O `GDD.pdf` incluído neste repositório é o documento original, enviado sem alterações.
